@@ -1,0 +1,26 @@
+#toast-container > .toast-error,
+#toast-container > .toast-warning,
+#toast-container > .toast-info,
+#toast-container > .toast-success {
+    color: #fff;
+}
+
+/* warna background pada notifikasi toastr error */
+#toast-container > .toast-error {
+    background-color: #dc3545;
+}
+
+/* warna background pada notifikasi toastr warning */
+#toast-container > .toast-warning {
+    background-color: #ffc107;
+}
+
+/* warna background pada notifikasi toastr info */
+#toast-container > .toast-info {
+    background-color: #17a2b8;
+}
+
+/* warna background pada notifikasi toastr success */
+#toast-container > .toast-success {
+    background-color: #28a745;
+}
